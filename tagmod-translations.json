@@ -259,7 +259,7 @@
 			},
 			{
 				"value": "Game Contracts",
-				"translation": "Игровые контракты"
+				"translation": "Контракты"
 			},
 			{
 				"value": "Topic and Genre",
@@ -279,7 +279,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "отчисления"
+				"translation": "Отчисления"
 			},			
 			{
 				"value": "Penalty",
@@ -287,7 +287,7 @@
 			},
 			{
 				"value": "Up-front Pay",
-				"translation": "Плата за авансовый платеж"
+				"translation": "Авансовый платеж"
 			},
 			{
 				"value": "No License",
@@ -307,23 +307,23 @@
 			},
 			{
 				"value": "Consoles",
-				"translation": "консоли"
+				"translation": "Консоли"
 			},
 			{
 				"value": "Weekly",
-				"translation": "еженедельно"
+				"translation": "Еженедельно"
 			},
 			{
 				"value": "Monthly",
-				"translation": "ежемесячно"
+				"translation": "Ежемесячно"
 			},
 			{
 				"value": "Annually",
-				"translation": "ежегодно"
+				"translation": "Ежегодно"
 			},
 			{
 				"value": "Level",
-				"translation": "уровень"
+				"translation": "Уровень"
 			},
 			{
 				"value": "No Specialization",
@@ -331,11 +331,11 @@
 			},
 			{
 				"value": "Energy",
-				"translation": "энергии"
+				"translation": "Энергия"
 			},
 			{
 				"value": "Game History",
-				"translation": "История игры"
+				"translation": "История игр"
 			},
 			{
 				"value": "Game Info",
@@ -343,15 +343,15 @@
 			},
 			{
 				"value": "Development",
-				"translation": "развитие"
+				"translation": "Создание"
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Текущий двигатель"
+				"translation": "Актуальный движок"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Нет двигателя"
+				"translation": "Нет движка"
 			},
 			{
 				"value": "Dialogues",
@@ -363,19 +363,19 @@
 			},
 			{
 				"value": "Units Sold",
-				"translation": "Проданных единиц"
+				"translation": "Проданных копий"
 			},
 			{
 				"value": "Costs",
-				"translation": "Расходы"
+				"translation": "Затраты"
 			},
 			{
 				"value": "Revenue",
-				"translation": "доходов"
+				"translation": "Выручка"
 			},
 			{
 				"value": "Released",
-				"translation": "опубликованный"
+				"translation": "Выпущено"
 			},
 			{
 				"value": "Top Sales Rank",
@@ -383,23 +383,23 @@
 			},
 			{
 				"value": "Platforms",
-				"translation": "платформы"
+				"translation": "Платформы"
 			},
 			{
 				"value": "Stage",
-				"translation": "стадия"
+				"translation": "Стадия"
 			},
 			{
 				"value": "Stage 1",
-				"translation": "стадия 1"
+				"translation": "Стадия 1"
 			},
 			{
 				"value": "Stage 2",
-				"translation": "стадия 2"
+				"translation": "Стадия 2"
 			},
 			{
 				"value": "Stage 3",
-				"translation": "стадия 3"
+				"translation": "Стадия 3"
 			},
 			{
 				"value": "Time Allocation",
@@ -419,11 +419,11 @@
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Стоимость изготовления"
+				"translation": "Стоимость разработки"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Поклонники, полученные"
+				"translation": "Фанаты"
 			},
 			{
 				"value": "Time",
@@ -431,11 +431,11 @@
 			},
 			{
 				"value": "Pay",
-				"translation": "плата"
+				"translation": "Плата"
 			},
 			{
 				"value": "Salary",
-				"translation": "Оплата труда"
+				"translation": "Зарплата"
 			},
 			{
 				"value": "Info & Stats",
@@ -443,7 +443,7 @@
 			},
 			{
 				"value": "Generate Report",
-				"translation": "Создать отчет"
+				"translation": "Анализ игры"
 			},
 			{
 				"value": "Dev. Cost",
@@ -455,43 +455,43 @@
 			},
 			{
 				"value": "Market Share",
-				"translation": "Рыночная доля"
+				"translation": "Доля рынка"
 			},
 			{
 				"value": "Rating",
-				"translation": "классификация"
+				"translation": "Рейтинг"
 			},
 			{
 				"value": "Profit",
-				"translation": "прибыль"
+				"translation": "Прибыль"
 			},
 			{
 				"value": "Need to generate a report first.",
-				"translation": "Необходимо сначала создать отчет."
+				"translation": "Сначала нужно провести анализ игры."
 			},
 			{
 				"value": "Time has elapsed to generate a report.",
-				"translation": "Прошло время для создания отчета."
+				"translation": "Проводить анализ игры уже поздно."
 			},
 			{
 				"value": "Insights",
-				"translation": "понимание"
+				"translation": "Выводы"
 			},
 			{
 				"value": "Engine Development",
-				"translation": "Разработка двигателей"
+				"translation": "Разработка движка"
 			},
 			{
 				"value": "Budget",
-				"translation": "бюджет"
+				"translation": "Бюджет"
 			},
 			{
 				"value": "Select Staff",
-				"translation": "Выберите Персонал"
+				"translation": "Выберите сотрудника"
 			},
 			{
 				"value": "Choose Engine",
-				"translation": "Выберите двигатель"
+				"translation": "Выберите движок"
 			}
 		]
 	},
